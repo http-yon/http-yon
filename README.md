@@ -35,9 +35,6 @@
 
 <h3> My Skills </h3>
 
-</br>
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/240px-HTML5_Badge.svg.png"  width="70" height="70"/>
 
 
