@@ -9,7 +9,6 @@
 ---
 
 <h3> About Me </h3>
-</br>
 
 
 </div>
@@ -36,7 +35,6 @@
 
 <h3> My Skills </h3>
 
-</br>
 </br>
 
 
