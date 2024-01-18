@@ -75,11 +75,19 @@
     
 ---
 
-<h3> Contact me </h3>
+<h3> Contact with me </h3>
 
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-pedraza/) 
+<a href="https://www.linkedin.com/in/yohan-pedraza/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+
+<a href="mailto:yohanpedraza2006@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+
+
 
 </div>
 
