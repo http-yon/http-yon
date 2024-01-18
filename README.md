@@ -22,9 +22,6 @@
 - Currently learning Java and SpringBoot
 - Ask me about anything, I'll be happy to help you.
 - Open to job offers and freelance work
-- How to contact me -> yohanpedraza2006@gmail.com
-
-
 
 
 
